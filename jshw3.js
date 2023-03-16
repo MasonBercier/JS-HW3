@@ -38,3 +38,21 @@ async function pokemonData(name){
           </div>
     `
 }
+
+
+// couldn't get change background to work, will have to try again later
+// const newBtn = document.createElement('button')
+// newBtn.innerText = 'Change Background!'
+// document.body.append(newBtn)
+// const bodyEl = document.querySelector('body')
+// newBtn.addEventListener('click'), () => {
+//     if(bodyEl.className === ''){
+//         bodyEl.classname = 'image1'
+//     }else if (bodyEl.classname === 'image1'){
+//         bodyEl.classname = 'image1'
+//     }else if (bodyEl.classname === 'image2'){
+//         bodyEl.classname = 'image3'
+//     }else if (bodyEl.classname === 'image3'){
+//         bodyEl.classname = 'image1'
+//     }  
+// }
