@@ -1,0 +1,17 @@
+.sj-div {
+    display: block;
+    text-align: center;
+    margin-top: 150px;
+    padding-bottom: 50px;
+}
+
+body {
+    background-image: url('images/wp3175324.jpg');
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
